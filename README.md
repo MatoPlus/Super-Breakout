@@ -5,7 +5,7 @@ A recreation of the video-game "breakout" made in Python2 and Pygame
 + Python 2
 + PyGame
 
-# How to Execute
+# Usage
 To run the program, simpliy execute BreakOut.py.
 
 # Controls
