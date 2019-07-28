@@ -1,6 +1,9 @@
 # Overview
 A recreation of the video-game "breakout" made in Python2 and Pygame
 
+# Demo
+![Demo](demo/demo.gif "Two players playing a game of super breakout.")
+
 # Dependencies
 + Python 2
 + PyGame
